@@ -1,4 +1,4 @@
-=== Granule ===
+=== The Loop ===
 
 Contributors: binarymoon
 Requires at least: 5.0
